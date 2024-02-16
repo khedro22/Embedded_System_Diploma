@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1707336357 source:d:\embedded_deploma\c_programming\unit 2 - c programming\lesson 6 - struct&union&enum\ex_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
